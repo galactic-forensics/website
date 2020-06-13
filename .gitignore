@@ -1,5 +1,9 @@
-# IDEs
+# PyCharm
 .idea/
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
 
 # Hugo
 resources/
