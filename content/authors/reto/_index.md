@@ -4,7 +4,7 @@ title: Reto Trappitsch
 
 # Username (this should match the folder name)
 authors:
-- reto-trappitsch
+- reto
 
 # Is this the primary user of the site?
 superuser: true

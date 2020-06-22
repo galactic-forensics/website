@@ -1,0 +1,13 @@
+---
+title: "Molybdenum Isotopes in Presolar Silicon Carbide Grains: Details of s-process Nucleosynthesis in Parent Stars and Implications for r- and p-processes"
+date: 2019-05-31
+publishDate: 2020-06-17T01:53:02.833197Z
+authors: ["Thomas Stephan", "Reto Trappitsch", "Peter Hoppe", "Andrew M. Davis", "Michael J. Pellin", "Olivia S. Pardo"]
+publication_types: ["2"]
+abstract: "We have analyzed molybdenum isotopes, together with strontium and barium isotopes, in 18 presolar silicon carbide grains using the Chicago Instrument for Laser Ionization (CHILI), a resonance ionization mass spectrometer. All observed isotope ratios can be explained by mixtures of pure <i>s</i>-process matter with isotopically solar material. Grain residues were subsequently analyzed for carbon, nitrogen, silicon, and sulfur isotopes, as well as a subset for <sup>26</sup>Al–<sup>26</sup>Mg systematics using the NanoSIMS. These analyses showed that all but one grain are mainstream grains, most probably coming from low-mass asymptotic giant branch (AGB) stars. One grain is of the AB type, for which the origin is still a matter of debate. The high precision of molybdenum isotope measurements with CHILI provides the best estimate to date for <i>s</i>-process molybdenum made in low-mass AGB stars. The average molybdenum isotopic abundances produced by the <i>s</i>-process found in the analyzed mainstream SiC grains are 0% <sup>92</sup>Mo, 0.73% <sup>94</sup>Mo, 13.30% <sup>95</sup>Mo, 36.34% <sup>96</sup>Mo, 9.78% <sup>97</sup>Mo, 39.42% <sup>98</sup>Mo, and 0.43% <sup>100</sup>Mo. Solar molybdenum can be explained as a combination of 45.9% <i>s</i>-process, 30.6% <i>r</i>-process, and 23.5% <i>p</i>-process contributions. Furthermore, the observed variability in the individual grain data provides insights into the variability of conditions (neutron density, temperature, and timescale) during <i>s</i>-process nucleosynthesis in the grains' parent stars, as they have subtle effects on specific molybdenum isotope ratios. Finally, the results suggest that the ratio between p- and <i>r</i>-process molybdenum in presolar SiC from many different types of parent stars is Mo<sub>p</sub>/Mo<sub>r</sub>  = 0.767, the value inferred for the solar system and consistent with what has been found in bulk samples and leachates of primitive meteorites."
+featured: false
+publication: "*The Astrophysical Journal*"
+tags: ["circumstellar matter", "dust", "extinction", "meteorites", "meteors", "meteoroids", "nuclear reactions", "nucleosynthesis", "abundances", "stars: AGB and post-AGB"]
+doi: "10.3847/1538-4357/ab1c60"
+---
+

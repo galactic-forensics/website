@@ -20,12 +20,36 @@
 
 [[main]]
   name = "Publications"
-  url = "publications/"
+  url = "publication/"
   weight = 80
 
 [[main]]
   name = "Resources"
   weight = 90
+
+[[main]]
+  parent = "Resources"
+  name = "Mind bytes"
+  url = "resources/mind-bytes/"
+  weight = 92
+
+# [[main]]
+#   parent = "Resources"
+#   name = "Courses"
+#   weight = 94
+#   hidden = true
+
+[[main]]
+  parent = "Resources"
+  name = "Downloads"
+  url = "resources/downloads"
+  weight = 96
+
+[[main]]
+  parent = "Resources"
+  name = "Links"
+  url = "resources/links"
+  weight = 98
 
 [[main]]
   name = "Contact"
