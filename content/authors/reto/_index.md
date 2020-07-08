@@ -15,10 +15,10 @@ role: Assistant Research Professor
 # Organizations/Affiliations
 organizations:
 - name: Brandeis University
-  url: ""
+  url: "https://galactic-forensics.space"
 
 # Short bio (displayed in user profile at end of posts)
-bio: short-bio
+bio: Experimental astrophysicist / cosmochemist with a strong interest in code development and numerical modeling.
 
 interests:
 - Stardust Grains
@@ -70,4 +70,16 @@ user_groups:
 - Principal Investigator
 ---
 
-Biography
+Early on in life, Reto was always fascinated by the stars. First with a small 6" Newton type reflector,
+then with an 11" Cassegrain type one he observed planets, galaxies, and grew his fascination for
+Astronomy. After high school, Reto went to the <a href="https://www.unibe.ch" target="_blank">University of Bern</a>
+in Switzerland and received first his BSc in Physics with Astronomy in 2008 and then his 
+MSc in Physics in 2010. He then moved to the University of Chicago, from where he received his PhD
+in 2016 for his thesis entitled: “Deciphering Galactic Chemical Evolution: Iron and Nickel Isotopes 
+and Cosmic Ray Exposure Ages of Presolar Silicon Carbide Grains”. During his PhD he helped build the
+CHILI Resonance Ionization Instrumet at the University of Chicago. 
+
+After his PhD, Reto moved to Lawrence Livermore National Laboratory as a PostDoc and worked
+on the LION Resonance Ionization Instrument. He became a staff scientist in December 2019.
+In October 2020 he joined the <a href="https://www.brandeis.edu/physics/index.html" target="_blank">Physics Department</a>
+at <a href="https://www.brandeis.edu" target="_blank">Brandeis University</a> as a research assistant professor.

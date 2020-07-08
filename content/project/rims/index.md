@@ -83,4 +83,4 @@ Currently only two RIMS instruments are being used for cosmochemistry worldwide,
 
 ![LION at LLNL](/img/projects/rims/lion400px.jpg) 
 
-The image above shows the LION instrument. The mass spectrometer can be seen on the right side, however, the reflectron (the top of the instrument) is outside the field of view. The center and left part shows the six tunable Ti:Sapphire lasers which allow the simultaneous ionization of various different elements.
+The image above shows the LION instrument. The mass spectrometer can be seen on the right side, however, the reflectron (in this setup the top of the instrument) is outside the field of view. The center and left part shows the six tunable Ti:Sapphire lasers which allow the simultaneous ionization of various different elements.

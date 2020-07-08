@@ -51,7 +51,7 @@ The solar composition can be measured excellently by observing the sun as well a
 ## Short-lived radionuclides
 Some of the anomalies that can be found in primitive objects from the solar system are enhancement in certain isotopes due to the in situ radioactive decay of short-lived radionuclides (SLRs). Calcium aluminum-rich refractory inclusions (CAIs), which are fluffy looking phases in primitive meteorites, are some of the very first material that condensed in the solar nebula and are the ideal samples to look for such anomalies.
 
-### How to determine the abundance of SLRs in the solar nebula
+### Determining the abundance of SLRs in the solar nebula
 
 If for example the short-lived <sup>60</sup>Fe was incorporated into a solid that condensed early on in the solar system we would be able to measure it today as an enhancement of <sup>60</sup>Ni since the original <sup>60</sup>Fe, which has a half-life of 2.6 Ma, would have all decayed to its stable daughter by now. The figure below shows how the presence of SLRs can be detected in a given sample.
 
@@ -77,7 +77,7 @@ One nuclide that can help us solve the question on where the <sup>26</sup>Al in 
 
 This discussion might seem very fabricated, however, for years and years the community has argued over the amount of <sup>60</sup>Fe present in the solar nebula and the mentioned values are not just randomly picked. In situ studies of chondrules, objects that formed in the solar system about 2 Ma after CAIs, by secondary ion mass spectrometry (SIMS) showed high <sup>60</sup>Fe values and thus pointed towards a supernova source. Bulk studies of many meteorites on the other hand consistently measured low <sup>60</sup>Fe values. Until recently, the in situ measurements could not be tested with other techniques than SIMS. 
 
-In a <a href="https://doi.org/10.3847/2041-8213/aabba9" target="_blank">recent publication</a> we re-analyzed one chondrule with [resonance ionization mass spectrometry (RIMS)](/research/04-rims). This sample has previously only been studied with SIMS. RIMS has the advantage over SIMS that all nickel isotopes can be measured without interferences. SIMS however can only anlyze <sup>60</sup>Ni, <sup>61</sup>Ni, and <sup>62</sup>Ni. In order to determine the excess in <sup>60</sup>Ni the measurements needs to be normalized to another isotope (see isochron figure above). Furthermore, <a href="https://en.wikipedia.org/wiki/Isotope_fractionation" target="_blank">mass dependent fractionation</a> also has to be corrected for, thus measuring a third isotope is required. 
+In a <a href="https://doi.org/10.3847/2041-8213/aabba9" target="_blank">recent publication</a> we re-analyzed one chondrule with [resonance ionization mass spectrometry (RIMS)](/project/rims). This sample has previously only been studied with SIMS. RIMS has the advantage over SIMS that all nickel isotopes can be measured without interferences. SIMS however can only anlyze <sup>60</sup>Ni, <sup>61</sup>Ni, and <sup>62</sup>Ni. In order to determine the excess in <sup>60</sup>Ni the measurements needs to be normalized to another isotope (see isochron figure above). Furthermore, <a href="https://en.wikipedia.org/wiki/Isotope_fractionation" target="_blank">mass dependent fractionation</a> also has to be corrected for, thus measuring a third isotope is required. 
 
 ![Nickel isotopes in DAP1](/img/projects/slrs/ni_isos_dap1.png)
 

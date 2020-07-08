@@ -48,7 +48,7 @@ Objects in space are constantly irradiated with high-energy particles. Two sourc
 
 ![SCR and GCR Spectrum](/img/projects/cosnucs/scr_gcr.png)
 
-Above figure shows a rough comparison of the SCR (blue, solid line) and GCR (green, dashed line) spectrum. The SCR can only penetrate the upper few centimeters of any given material in space due to its low energies. On the other hand, GCRs can penetrate down to several meters below the surface of a given meteoroid. Since the outer layers of meteorites are generally lost, only the GCR flux matters when analyzing meteorites.
+Above figure shows a comparison of the SCR (blue, solid line) and GCR (green, dashed line) spectrum. The SCR can only penetrate the upper few centimeters of any given material in space due to its low energies. On the other hand, GCRs can penetrate down to several meters below the surface of a given meteoroid. Since the outer layers of meteorites are generally lost, only the GCR flux matters when analyzing meteorites.
 
 *Note*: Scientists working on cosmogenic nuclides generally distinguish between meteoroids and meteorites. A meteoroid is an rock in space that broke off from its parent asteroid, is thus irradiated by SCR and GCR, and has not hit the Earth yet. A meteorite on the other hand is the rock that fell from the sky, i.e., the meteoroid after it fell down to earth, thus passed the atmosphere and lost most of its outer material by ablation. This ablation usually leads to a meteoroid loosing its SCR record such that only GCR effects can be measured in meteorites.
 

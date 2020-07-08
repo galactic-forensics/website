@@ -27,11 +27,11 @@
   name = "Resources"
   weight = 90
 
-[[main]]
-  parent = "Resources"
-  name = "Mind bytes"
-  url = "resources/mind-bytes/"
-  weight = 92
+# [[main]]
+#   parent = "Resources"
+#   name = "Mind bytes"
+#   url = "resources/mind-bytes/"
+#   weight = 92
 
 # [[main]]
 #   parent = "Resources"
