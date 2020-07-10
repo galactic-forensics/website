@@ -56,4 +56,4 @@ Studying meteorites allows us to determine the initial elemental and isotopic co
 
 Analyses of stardust grains and meteorites, in combination with nuclear physics experiments, and astronomical observations constrain the physical models of stellar nucleosynthesis and galactic chemical evolution of the Milky Way. That means that such measurements and observations help us to constrain how elements evolved from the hydrogen and helium that was formed in the big bang to the composition of the solar system and its inhabitants as we find it today.
 
-![Research Image Compilations](/img/welcome_compilation_1600.png)
+![Research Image Compilations](img/welcome_compilation_1600.png)
