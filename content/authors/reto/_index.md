@@ -47,6 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: lock
+  icon_pack: fas
+  link: https://keys.openpgp.org/search?q=reto%40brandeis.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/trappitsch
@@ -74,7 +77,7 @@ user_groups:
 Early on in life I was already fascinated by the stars. First with a small 6" Newton type reflector,
 then with an 11" Cassegrain type telescope I observed planets, galaxies, an other objects, which fostered my fascination for
 Astronomy. After high school, I went to the <a href="https://www.unibe.ch" target="_blank">University of Bern</a>
-in Switzerland and received first my BSc in Physics with Astronomy in 2008 and then my 
+in Switzerland and received first my BSc in Physics and Astronomy in 2008 and then my 
 MSc in Physics in 2010. I then moved to the University of Chicago, from where I received my PhD
 in 2016 for the thesis entitled: “Deciphering Galactic Chemical Evolution: Iron and Nickel Isotopes 
 and Cosmic Ray Exposure Ages of Presolar Silicon Carbide Grains”. During my PhD I helped build the
