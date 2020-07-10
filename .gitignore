@@ -6,5 +6,5 @@
 *.sublime-workspace
 
 # Hugo
-resources/
-public/
+/resources/
+/public/
