@@ -71,16 +71,16 @@ user_groups:
 - Principal Investigator
 ---
 
-Early on in life Reto was already fascinated by the stars. First with a small 6" Newton type reflector,
-then with an 11" Cassegrain type telescope he observed planets, galaxies, an other objects, which fostered his fascination for
-Astronomy. After high school, Reto went to the <a href="https://www.unibe.ch" target="_blank">University of Bern</a>
-in Switzerland and received first his BSc in Physics with Astronomy in 2008 and then his 
-MSc in Physics in 2010. He then moved to the University of Chicago, from where he received his PhD
-in 2016 for his thesis entitled: “Deciphering Galactic Chemical Evolution: Iron and Nickel Isotopes 
-and Cosmic Ray Exposure Ages of Presolar Silicon Carbide Grains”. During his PhD he helped build the
+Early on in life I was already fascinated by the stars. First with a small 6" Newton type reflector,
+then with an 11" Cassegrain type telescope I observed planets, galaxies, an other objects, which fostered my fascination for
+Astronomy. After high school, I went to the <a href="https://www.unibe.ch" target="_blank">University of Bern</a>
+in Switzerland and received first my BSc in Physics with Astronomy in 2008 and then my 
+MSc in Physics in 2010. I then moved to the University of Chicago, from where I received my PhD
+in 2016 for the thesis entitled: “Deciphering Galactic Chemical Evolution: Iron and Nickel Isotopes 
+and Cosmic Ray Exposure Ages of Presolar Silicon Carbide Grains”. During my PhD I helped build the
 CHILI Resonance Ionization Instrumet at the University of Chicago. 
 
-After his PhD, Reto moved to Lawrence Livermore National Laboratory as a postdoc and worked
-on the LION Resonance Ionization Instrument. He became a staff scientist in December 2019.
-In October 2020 he will join the <a href="https://www.brandeis.edu/physics/index.html" target="_blank">Physics Department</a>
+After my time in Chicago, I moved to Lawrence Livermore National Laboratory as a postdoc and worked
+on the LION Resonance Ionization Instrument. In December 2019 I became a staff scientist at the lab.
+In October 2020 I will join the <a href="https://www.brandeis.edu/physics/index.html" target="_blank">Physics Department</a>
 at <a href="https://www.brandeis.edu" target="_blank">Brandeis University</a> as a research assistant professor.

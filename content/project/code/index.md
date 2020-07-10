@@ -72,7 +72,7 @@ The freely available <a href="https://github.com/Galvant/InstrumentKit" target="
 
 ## Mahon Fitting
 
-In order to fit a linear regression we use the routine by <a href="https://www.tandfonline.com/doi/abs/10.1080/00206819709465336" target="_blank">Mahon (1996)</a>, also known as the “New York” regression, should be used. Along with the <a href="https://doi.org/10.3847/2041-8213/aabba9" target="_blank">Trappitsch et al. (2018)</a> publication we published a tool to easily apply the Mahon fitting routine to any dataset. The tool, including a detailed README file, can be found on <a href="https://github.com/LLNL/MahonFitting" target="_blank">the respective GitHub site</a>.
+In order to fit a linear regression to measurements with uncertainties in both axes, the routine by <a href="https://www.tandfonline.com/doi/abs/10.1080/00206819709465336" target="_blank">Mahon (1996)</a>, also known as the “New York” regression, should be used. Along with the <a href="https://doi.org/10.3847/2041-8213/aabba9" target="_blank">Trappitsch et al. (2018)</a> publication we published a tool to easily apply the Mahon fitting routine to any dataset. The tool, including a detailed README file, can be found on <a href="https://github.com/LLNL/MahonFitting" target="_blank">the respective GitHub site</a>.
 
 ## Resonance Ionization Scheme Drawer
 
