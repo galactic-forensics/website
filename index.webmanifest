@@ -1,0 +1,18 @@
+{
+  "name": "Galactic Forensics Laboratory",
+  "short_name": "Galactic Forensics Laboratory",
+  "lang": "en-us",
+  "theme_color": "#003478",
+  "background_color": "#003478",
+  "icons": [{
+    "src": "/images/icon_huf9971d92eb29bf4da5830b881252d169_24412_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_huf9971d92eb29bf4da5830b881252d169_24412_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
