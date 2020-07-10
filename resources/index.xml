@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resources | Galactic Forensics Laboratory</title><link>https://galactic-forensics.space/resources/</link><atom:link href="https://galactic-forensics.space/resources/index.xml" rel="self" type="application/rss+xml"/><description>Resources</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© (2020) · Galactic Forensics Laboratory · Brandeis University</copyright><lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate><image><url>https://galactic-forensics.space/images/logo_hueb41359ad733f2a4eb80221204fe0002_32021_300x300_fit_lanczos_2.png</url><title>Resources</title><link>https://galactic-forensics.space/resources/</link></image><item><title>Links</title><link>https://galactic-forensics.space/resources/links/</link><pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate><guid>https://galactic-forensics.space/resources/links/</guid><description>&lt;p>This is a collection of links that we use regularly or want to keep in mind. Hopefully, you find something useful here as well in this quite random assortment. Also: This page will be updated when we come across something new and nice. Also feel free to propose some ideas on what you think is great.&lt;/p>
+&lt;h3 id="cosmochemistry-news">Cosmochemistry News&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">Astronomy Picture of the Day&lt;/a>: Classics are always in style!&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/" target="_blank">ArXiV&lt;/a>: Physics / Astrophysics preprint server.&lt;/li>
+&lt;li>&lt;a href="https://cosmochemistry-papers.com/" target="_blank">Cosmochemistry papers&lt;/a>: Great resource that publishes the lates publications related to cosmochemistry&lt;/li>
+&lt;/ul>
+&lt;h3 id="databases">Databases&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://web2.lac.u-psud.fr/lac/Database/Contents.html" target="_blank">Actinide atomic spectra&lt;/a>: Special atomic energy and spectra database for actinides. Has much more information than NIST database for these elements.&lt;/li>
+&lt;li>&lt;a href="https://www.oecd-nea.org/janis/" target="_blank">JANIS&lt;/a>: OECD-NEA nuclear data information system. Online tool and java based software available.&lt;/li>
+&lt;li>&lt;a href="https://www.nist.gov/pml/atomic-spectra-database" target="_blank">NIST Atomic spectra database&lt;/a>: Database for looking up atomic energies and spectra.&lt;/li>
+&lt;li>&lt;a href="http://riliselements.web.cern.ch/riliselements/index.php?location=all&amp;lasuse=all&amp;special=none" target="_blank">RILIS&lt;/a>: Database with RIMS spectra, maintained by CERN.&lt;/li>
+&lt;/ul>
+&lt;h3>Instrumentation / Hardware&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/Galvant/InstrumentKit" target="_blank">Instrument Kit&lt;/a>: Driver / communication package for communication between Python and Hardware.&lt;/li>
+&lt;/ul>
+&lt;h3>Software&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/kmiernik/Chart-of-nuclides-drawer" target="_blank">Chart of the nuclide drawer&lt;/a>: Python script to plot the whole chart of the nuclides using the nuclear data wallet numbers and prints it as an svg. Color scheme based on Karlsruher Nuklidkart but can be customized.&lt;/li>
+&lt;li>&lt;a href="https://inkscape.org/en/" target="_blank">Inkscape&lt;/a>: A classic at this point I assume, Inkscape is amazing when handling vector graphics and importing / exporting for proper figure handling. And best of all, fully open source.&lt;/li>
+&lt;li>&lt;a href="https://veusz.github.io/" target="_blank">Veusz&lt;/a>: Finally an open source tool to replace expensive plotting programs. Absolutely fantastic program!&lt;/li>
+&lt;li>&lt;a href="http://yt-project.org/" target="_blank">yt-project&lt;/a>: If you need python and don&amp;rsquo;t want to install from scratch, look no further. YT is the solution to any of your problems.&lt;/li>
+&lt;/ul></description></item><item><title>Downloads</title><link>https://galactic-forensics.space/resources/downloads/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://galactic-forensics.space/resources/downloads/</guid><description>&lt;h3 id="fe-ni-presolar-grain-measurements">Fe, Ni presolar grain measurements&lt;/h3>
+&lt;p>&lt;strong>Data from Trappitsch et al. (2018)&lt;/strong>&lt;/p>
+&lt;p>
+&lt;a href="https://galactic-forensics.space/files/downloads/trappitsch_et_al_2018/Trappitsch&amp;#43;2018_datatable_corrected_d64Ni.xlsb">Here&lt;/a>. you can find the data from &lt;a href="https://doi.org/10.1016/j.gca.2017.05.031" target="_blank">Trappitsch et al. (2018)&lt;/a> in a machine readable format. Note that the δ&lt;sup>64&lt;/sup>Ni measurements are slightly corrected compared to the paper. While the conclusions from Trappitsch et al. (2018) do not change, we found a slight normalization error, which is corrected in the table provided
+&lt;a href="https://galactic-forensics.space/files/downloads/trappitsch_et_al_2018/Trappitsch&amp;#43;2018_datatable_corrected_d64Ni.xlsb">here&lt;/a>.&lt;/p>
+&lt;h3 id="cosmogenic--nuclides-in-micrometeorites-and-ipds-induced">Cosmogenic nuclides in micrometeorites and IPDs induced&lt;/h3>
+&lt;p>&lt;strong>Supplement to Trappitsch &amp;amp; Leya (2013)&lt;/strong>&lt;/p>
+&lt;p>In &lt;a href="https://doi.org/10.1111/maps.12051" target="_blank">Trappitsch and Leya (2013)&lt;/a> we presented new cosmogenic production rates in micrometeorites and interplanetary dust particles. Here we provide the Excel tables from the paper for download.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="https://galactic-forensics.space/files/downloads/trappitsch_leya_2013/SCR_Cosmogenic_Nuclides_in_IDPs.xls">SCR induced cosmogenic nuclides&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://galactic-forensics.space/files/downloads/trappitsch_leya_2013/GCR_Cosmogenic_Nuclides_in_IDPs.xls">GCR induced cosmogenic nuclides&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
