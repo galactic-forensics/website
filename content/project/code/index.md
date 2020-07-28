@@ -76,9 +76,9 @@ In order to fit a linear regression to measurements with uncertainties in both a
 
 ## Resonance Ionization Scheme Drawer
 
-Would you like to make resonance ionization schemes like the one we show [here](/project/rims/) for titanium? Check out our <a href="https://github.com/trappitsch/RIMSSchemeDrawer" target="_blank">`RIMS Scheme Drawer`</a> software. This GUI allows you to draw your own resonance ionization schemes with just a few clicks and results in publishable figures.
+Would you like to make resonance ionization schemes like the one we show [here](/project/rims/) for titanium? Check out our <a href="https://github.com/RIMS-Code/RIMSSchemeDrawer" target="_blank">`RIMS Scheme Drawer`</a> software. This GUI allows you to draw your own resonance ionization schemes with just a few clicks and results in publishable figures.
 
-<a href="https://github.com/trappitsch/RIMSSchemeDrawer" target="_blank">![RIMSSchemeDrawer](https://raw.githubusercontent.com/trappitsch/RIMSSchemeDrawer/master/examples/screenshot_titanium.png)</a>
+<a href="https://github.com/RIMS-Code/RIMSSchemeDrawer" target="_blank">![RIMSSchemeDrawer](https://raw.githubusercontent.com/RIMS-Code/RIMSSchemeDrawer/master/examples/screenshot_titanium.png)</a>
 
 ## Coordinate Transformation
 
