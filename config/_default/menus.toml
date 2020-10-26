@@ -52,6 +52,12 @@
   weight = 98
 
 [[main]]
+  parent = "Resources"
+  name = "Presentations"
+  url = "resources/presentations/"
+  weight = 99
+
+[[main]]
   name = "Contact"
   url = "contact/"
   weight = 100

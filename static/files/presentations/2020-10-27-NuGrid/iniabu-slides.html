@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="keywords" content="remark,remarkjs,markdown,slideshow,presentation" />
+    <meta name="description" content="A simple, in-browser, markdown-driven slideshow tool." />
+    <title>iniabu</title>
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body {
+        font-family: 'Droid Serif';
+      }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: 400;
+        margin-bottom: 0;
+      }
+      .remark-slide-content h1 { font-size: 3em; }
+      .remark-slide-content h2 { font-size: 2em; }
+      .remark-slide-content h3 { font-size: 1.6em; }
+      .footnote {
+        position: absolute;
+        bottom: 3em;
+      }
+      li p { line-height: 1.25em; }
+      .red { color: #fa0000; }
+      .gray { color: #a0a0a0; }
+      .large { font-size: 2em; }
+      a, a > code {
+        color: rgb(249, 38, 114);
+        text-decoration: none;
+      }
+      code {
+        background: #e7e8e2;
+        border-radius: 5px;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .pull-left {
+        float: left;
+        width: 47%;
+      }
+      .pull-right {
+        float: right;
+        width: 47%;
+      }
+      .pull-right ~ p {
+        clear: both;
+      }
+      #slideshow .slide .content code {
+        font-size: 0.8em;
+      }
+      #slideshow .slide .content pre code {
+        font-size: 0.9em;
+        padding: 15px;
+      }
+      .inverse {
+        background: #272822;
+        color: #777872;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+
+      /* Slide-specific styling */
+      #slide-inverse .footnote {
+        bottom: 12px;
+        left: 20px;
+      }
+      #slide-how .slides {
+        font-size: 0.9em;
+        position: absolute;
+        top:  151px;
+        right: 140px;
+      }
+      #slide-how .slides h3 {
+        margin-top: 0.2em;
+      }
+      #slide-how .slides .first, #slide-how .slides .second {
+        padding: 1px 20px;
+        height: 90px;
+        width: 120px;
+        -moz-box-shadow: 0 0 10px #777;
+        -webkit-box-shadow: 0 0 10px #777;
+        box-shadow: 0 0 10px #777;
+      }
+      #slide-how .slides .first {
+        background: #fff;
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        z-index: 1;
+      }
+      #slide-how .slides .second {
+        position: relative;
+        background: #fff;
+        z-index: 0;
+      }
+
+      /* Two-column layout */
+      .left-column {
+        color: #777;
+        width: 20%;
+        height: 92%;
+        float: left;
+      }
+        .left-column h2:last-of-type, .left-column h3:last-child {
+          color: #000;
+        }
+      .right-column {
+        width: 75%;
+        float: right;
+        padding-top: 1em;
+      }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+# iniabu: Getting Solar System Abundances in Python
+<br>
+Reto Trappitsch
+
+October 27, 2020
+
+.footnote[Go to: [source code](https://github.com/galactic-forensics/iniabu), [documentation](https://iniabu.readthedocs.io/en/latest/)]
+
+---
+template: inverse
+## What does it provide?
+---
+
+layout: false
+.left-column[
+## `iniabu`
+### - Goal
+]
+.right-column[
+  **A simple API to retrieve solar abundances in python
+  and perform simple calculations useful for astrophysics.**
+
+- Compatible with Python 3.6+
+
+- Open source
+
+- Maintainable
+
+- Well documented
+
+- Simple mechanism to add databases later on and extend capabilities
+]
+---
+
+.left-column[
+## `iniabu`
+### - Goal
+### - Functionality
+]
+.right-column[
+
+- Load / switch various databases
+
+- Retrieve element and isotope information
+
+- Calculate commonly used comparisons with measurements / observations / models:
+
+  - δ-, ε-, µ-values
+
+  - bracket notation
+
+  - Internal normalization<sup>*</sup>
+
+- All values / calculations are either returned as `floats` or `numpy.ndarrays`
+
+.footnote[<sup>*</sup>Requested but not yet implemented.]
+]
+
+---
+
+.left-column[
+## `iniabu`
+### - Goal
+### - Functionality
+### - Current state
+]
+.right-column[
+- [Previous project](https://github.com/llnl/iniabu) will be replaced since not easily extendable
+
+- This package: testing / extending phase
+
+- Source code available on [GitHub](https://github.com/galactic-forensics/iniabu)
+
+- Not yet on PyPi, but will be released when testing is completed as `iniabu` v1.0.0<sup>*</sup>
+
+- Full documentation with examples and auto-generated API docs available on
+  [iniabu.readthedocs.io](https://iniabu.readthedocs.io/)
+
+.footnote[<sup>*</sup>Anticipated release date on PyPy: End of 2020]
+]
+
+---
+
+.left-column[
+## `iniabu`
+### - Goal
+### - Functionality
+### - Current state
+### - Development
+]
+.right-column[
+- Developer reference [available in docs](https://iniabu.readthedocs.io/en/latest/dev/index.html)
+
+- Use `nox` for automation:
+
+  - Testing using `pytest`<sup>*</sup>
+
+  - Linting with `flake8`<sup>*</sup>
+
+  - Documentation tests with `xdoctest`<sup>*</sup>
+
+  - Local documentation generation with `sphinx`
+
+  - Auto formatting with `black`
+
+  - Build and release with `flit`
+
+-  [Pre-commit](https://pre-commit.com/) hook setup available
+
+- CI via GithubActions and [coveralls.io](https://coveralls.io/github/galactic-forensics/iniabu)
+
+.footnote[<sup>*</sup>Mandatory for passing CI tests / merging.]
+]
+
+---
+
+template: inverse
+## Some examples...
+---
+
+# Getting started
+
+## Installation
+
+Currently:
+
+```bash
+$ pip install git+https://github.com/galactic-forensics/iniabu.git
+```
+
+.red[Attention:] Currently the old package (v0.3.1) would be installed
+if you try to install `iniabu` directly from PyPi.
+
+
+--
+
+## The standard import
+
+Using Lodders et al. (2009) database
+
+```python
+>>> from iniabu import ini
+```
+
+---
+
+# Exploring databases
+
+## Loading and testing another database
+
+```python
+>>> ini.database = "asplund09"  # load
+>>> ini.database  # query
+'asplund09'
+```
+
+--
+
+## Simultaneous usage of multiple databases
+
+```python
+>>> import iniabu
+>>> db1 = iniabu.IniAbu(database="lodders09")
+>>> db2 = iniabu.IniAbu(database="asplund09")
+```
+
+---
+
+# Units used to return information
+
+- **Default**: Linear, number abundance
+
+  - Normed to abundance of silicon: Si = 10<sup>6</sup>.
+
+  - Used, e.g., in Lodders et al. (2009)
+--
+
+- Can easily switch to logarithmic abundance
+  ```python
+  >>> ini.abundance_unit == "log"
+  ```
+
+- Now, abundance of element *X* normed to hydrogen:
+  `$$\log_{10}(\epsilon_{X}) = \log_{10} \left( \frac{\mathrm{N}_X}{\mathrm{N}_\mathrm{H}} \right) + 12$$`
+
+--
+
+- Query the currently set abundance unit:
+  ```python
+  >>> ini.abundance_unit
+  'log'
+```
+
+---
+
+# Querying an element or isotope
+
+## Load the element / isotope into a variable
+
+```python
+>>> ele = ini.element['Fe']
+>>> iso = ini.isotope['Ne-20']
+```
+--
+
+## Query solar abundance
+
+```python
+>>> ele.solar_abundance
+847990.0
+>>> iso.solar_abundance
+3060000.0
+```
+
+--
+
+## Query the isotopes of an element
+```python
+>>> ele.isotopes_a
+*array([54, 56, 57, 58])
+>>> ele.isotopes_solar_abundance
+*array([ 49600., 778000.,  18000.,   2390.])
+```
+
+---
+
+# Calculate δ-value for your measurements
+
+## What is the δ-value?
+
+`$$\delta\left( \frac{^{i}X}{^{j}X}\right) = 
+\left( \frac{\left(\frac{^{i}X}{^{j}X}\right)_\mathrm{msr}}
+{\left(\frac{^{i}X}{^{j}X}\right)_\odot} - 1 \right) \times f$$`
+
+- Deviation of an isotope ratio from solar ratio
+
+- Generally expressed in parts per thousand (‰)
+
+- Achieve retrieving δ-value in ‰ by setting \\(f=1000\\) (set by default)
+
+---
+
+# Calculate δ-value for your measurements
+
+- Assume silicon isotope ratios have been measured with respect to <sup>28</sup>Si
+
+- Three ways to calculate the δ-values:
+  ```python
+  >>> msr = [1., 0.01, 0.04]  # measurements
+  ```
+--
+  - Manual:
+    ```python
+    >>> ini.delta_isotope(['Si-28', 'Si-29', 'Si-30'], 'Si-28', msr)
+    array([   0.        , -803.05359812,  195.07612569])
+    ```
+--
+  - Automatically select all isotopes in nominator:
+    ```python
+    >>> ini.delta_isotope('Si', 'Si-28', msr)
+    array([   0.        , -803.05359812,  195.07612569])
+    ```
+--
+  - Also set denominator automatically to most abundant isotope:
+  ```python
+  >>> ini.delta_isotope('Si', 'Si', msr)
+  array([   0.        , -803.05359812,  195.07612569])
+  ```
+
+---
+
+# Get help by calling `ini.delta_isotope?`
+
+```python
+Signature:
+ini.delta_isotope(
+    nominator,
+    denominator,
+    value,
+    mass_fraction=False,
+    delta_factor=1000.0,
+)
+Docstring:
+Calculate the delta-value for a given isotope ratio and a value.
+
+The delta-value is defined as:
+
+result = (measured value / solar ratio - 1)
+
+By default, the delta-value is multiplied by 1000, thus, expressing it in
+permil. Other factors can be chosen.
+
+Nominator and denominator have the same restrictions as for the
+``ratio_element`` method.
+The same number of values must be supplied as there are isotope ratios defined.
+
+:param nominator: Isotope(s) in nominator.
+:type nominator: str,list
+:
+```
+
+---
+
+template: inverse
+## What's next?
+
+---
+
+# The next steps...
+
+- User testing and feature proposals
+
+  - Your chance to take direct influence
+
+  - Voice your opinion on bugs / enhancements by raising an [issue on GitHub](https://github.com/galactic-forensics/iniabu/issues) (preferred)
+
+  - .gray[Send me an e-mail with your request (I will raise the issue)]
+
+- Improve test suite
+
+- Release v1.0.0 as `iniabu` on PyPi (hopefully end of 2020)
+
+<br>
+
+.center[.red[**This is your chance to influence the project directly**]
+
+**Feel free to contribute!**
+]
+
+---
+
+template: inverse
+
+## Questions?
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script>
+    <script>
+      var slideshow = remark.create({
+        // Enable or disable counting of incremental slides in the slide counting
+        countIncrementalSlides: false,
+        highlightLines: true,
+        highlightStyle: 'default',
+        ratio: '16:9'
+      });
+
+      // Setup MathJax
+      MathJax.Hub.Config({
+          tex2jax: {
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+      });
+      MathJax.Hub.Queue(function() {
+          $(MathJax.Hub.getAllJax()).map(function(index, elem) {
+              return(elem.SourceElement());
+          }).parent().addClass('has-jax');
+      });
+
+      MathJax.Hub.Configured();
+    </script>
+  </body>
+</html>
