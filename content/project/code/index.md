@@ -53,21 +53,48 @@ As you will notice, a dominating programming language in our lab is Python. This
 
 ## iniabu
 
-Iniabu is a package for python that you can use to easily calculate the inital abundances of the solar system and return ratios as δ-values or in bracket notation. By default the initial abundances from <a href="https://doi.org/10.1007/978-3-540-88055-4_34" target="_blank">Lodders et al. (2009)</a> are called. You can install this module by simply calling:
+`iniabu` is a package for python that you can use 
+to easily calculate the inital abundances of the solar system 
+and return ratios as δ-values or in bracket notation. 
+By default the initial abundances from 
+<a href="https://doi.org/10.1007/978-3-540-88055-4_34" target="_blank">Lodders et al. (2009)</a> 
+are used.
+You can install this module by simply calling:
 
-    pip install iniabu
+``` console
+pip install iniabu
+```
 
-Help on how to use it can either be found in the <a href="https://github.com/LLNL/iniabu" target="_blank">readme file on github</a> or by accessing the docstring, e.g., from within ipython by calling:
+The full documentation of `iniabu` can be found [here](https://iniabu.rtfd.io).
+Full examples in the form of jupyter notebooks
+can be found [here](https://github.com/galactic-forensics/iniabu/tree/master/docs/jupyter_examples).
+This package is completely rewritten from its first version.
+It is also fully open source,
+the code base is available on [our GitHub page](https://github.com/galactic-forensics/iniabu).
+On that page are also instructions on how to install the latest development version,
+how to install from source,
+and how to contribute.
 
-    import iniabu                                                           
-    ini = iniabu.IniAbu()                                                   
-    ini?
-
-Give the package a spin but note that we have a completely rewritten package in the makings <a href="https://github.com/galactic-forensics/iniabu" target="_blank">here</a>. This new version will be released as v1.0.0 and will break backwards compatibility. You have been warned :) If you feel adventerous, we'd be happy if you give the new package a test spin and report issues back. This would of course also allow you to request features and enhancements!
+On the GitHub page
+there is also a discussion section
+where users are encouraged to share examples
+and ask questions on usage.
+Furthermore,
+you can raise an issue
+if you find a bug in the software,
+would like some specific feature included,
+or need help.
 
 ## InstrumentKit
 
-The freely available <a href="https://github.com/Galvant/InstrumentKit" target="_blank">InstrumentKit</a> has been used to interact with hardware for the LION instrument. Several classes have been contributed by us to this excellent compilation of tools. This allows you and anybody else in the world to utilize more tools, and might motivate you to continue down the Python path and contribute your own instruments one day.
+The freely available <a href="https://github.com/Galvant/InstrumentKit" target="_blank">InstrumentKit</a> 
+has been used to interact with hardware for the LION instrument
+at Lawrence Livermore National Laboratory. 
+Several classes have been contributed by us 
+to this excellent compilation of tools. 
+This allows you and anybody else in the world to utilize more tools,
+might motivate you to continue down the Python path, 
+and contribute your own instruments one day.
 
 
 ## Mahon Fitting
