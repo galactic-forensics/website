@@ -117,17 +117,45 @@ This abundance ratio is typically written as:&lt;/p>
 &lt;p>As you will notice, a dominating programming language in our lab is Python. This becomes especially clear when you look at the GitHub pages given above. If you are interested in any of our specific code or you have questions, please feel free to
 &lt;a href="https://galactic-forensics.space/contact/">contact us&lt;/a>! Also, contributions to our codes are always welcomed. Please have a look at the developer guides (when available). Feel free to create pull requests for documentation enhancement, small bug fixes, etc. We are looking forward to your ideas and issues.&lt;/p>
 &lt;h2 id="iniabu">iniabu&lt;/h2>
-&lt;p>Iniabu is a package for python that you can use to easily calculate the inital abundances of the solar system and return ratios as δ-values or in bracket notation. By default the initial abundances from &lt;a href="https://doi.org/10.1007/978-3-540-88055-4_34" target="_blank">Lodders et al. (2009)&lt;/a> are called. You can install this module by simply calling:&lt;/p>
-&lt;pre>&lt;code>pip install iniabu
+&lt;p>&lt;code>iniabu&lt;/code> is a package for python that you can use
+to easily calculate the inital abundances of the solar system
+and return ratios as δ-values or in bracket notation.
+By default the initial abundances from
+&lt;a href="https://doi.org/10.1007/978-3-540-88055-4_34" target="_blank">Lodders et al. (2009)&lt;/a>
+are used.
+You can install this module by simply calling:&lt;/p>
+&lt;pre>&lt;code class="language-console">pip install iniabu
 &lt;/code>&lt;/pre>
-&lt;p>Help on how to use it can either be found in the &lt;a href="https://github.com/LLNL/iniabu" target="_blank">readme file on github&lt;/a> or by accessing the docstring, e.g., from within ipython by calling:&lt;/p>
-&lt;pre>&lt;code>import iniabu
-ini = iniabu.IniAbu()
-ini?
-&lt;/code>&lt;/pre>
-&lt;p>Give the package a spin but note that we have a completely rewritten package in the makings &lt;a href="https://github.com/galactic-forensics/iniabu" target="_blank">here&lt;/a>. This new version will be released as v1.0.0 and will break backwards compatibility. You have been warned :) If you feel adventerous, we&amp;rsquo;d be happy if you give the new package a test spin and report issues back. This would of course also allow you to request features and enhancements!&lt;/p>
+&lt;p>The full documentation of &lt;code>iniabu&lt;/code> can be found
+&lt;a href="https://iniabu.rtfd.io" target="_blank" rel="noopener">here&lt;/a>.
+Full examples in the form of jupyter notebooks
+can be found
+&lt;a href="https://github.com/galactic-forensics/iniabu/tree/master/docs/jupyter_examples" target="_blank" rel="noopener">here&lt;/a>.
+This package is completely rewritten from its first version.
+It is also fully open source,
+the code base is available on
+&lt;a href="https://github.com/galactic-forensics/iniabu" target="_blank" rel="noopener">our GitHub page&lt;/a>.
+On that page are also instructions on how to install the latest development version,
+how to install from source,
+and how to contribute.&lt;/p>
+&lt;p>On the GitHub page
+there is also a discussion section
+where users are encouraged to share examples
+and ask questions on usage.
+Furthermore,
+you can raise an issue
+if you find a bug in the software,
+would like some specific feature included,
+or need help.&lt;/p>
 &lt;h2 id="instrumentkit">InstrumentKit&lt;/h2>
-&lt;p>The freely available &lt;a href="https://github.com/Galvant/InstrumentKit" target="_blank">InstrumentKit&lt;/a> has been used to interact with hardware for the LION instrument. Several classes have been contributed by us to this excellent compilation of tools. This allows you and anybody else in the world to utilize more tools, and might motivate you to continue down the Python path and contribute your own instruments one day.&lt;/p>
+&lt;p>The freely available &lt;a href="https://github.com/Galvant/InstrumentKit" target="_blank">InstrumentKit&lt;/a>
+has been used to interact with hardware for the LION instrument
+at Lawrence Livermore National Laboratory.
+Several classes have been contributed by us
+to this excellent compilation of tools.
+This allows you and anybody else in the world to utilize more tools,
+might motivate you to continue down the Python path,
+and contribute your own instruments one day.&lt;/p>
 &lt;h2 id="mahon-fitting">Mahon Fitting&lt;/h2>
 &lt;p>In order to fit a linear regression to measurements with uncertainties in both axes, the routine by &lt;a href="https://www.tandfonline.com/doi/abs/10.1080/00206819709465336" target="_blank">Mahon (1996)&lt;/a>, also known as the “New York” regression, should be used. Along with the &lt;a href="https://doi.org/10.3847/2041-8213/aabba9" target="_blank">Trappitsch et al. (2018)&lt;/a> publication we published a tool to easily apply the Mahon fitting routine to any dataset. The tool, including a detailed README file, can be found on &lt;a href="https://github.com/LLNL/MahonFitting" target="_blank">the respective GitHub site&lt;/a>.&lt;/p>
 &lt;h2 id="resonance-ionization-scheme-drawer">Resonance Ionization Scheme Drawer&lt;/h2>
