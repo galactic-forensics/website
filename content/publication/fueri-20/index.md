@@ -8,6 +8,6 @@ abstract: "Exposure of rocks and regolith to solar (SCR) and galactic cosmic ray
 featured: true
 publication: "*Earth and Planetary Science Letters*"
 tags: ["deuterium", "water", "noble gases", "cosmic rays", "olivine", "Moon"]
-doi: "10.1016/j.epsl.2017.05.042"
+doi: "10.1016/j.epsl.2020.116550"
 ---
 
