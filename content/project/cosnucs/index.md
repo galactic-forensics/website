@@ -58,7 +58,10 @@ The irradiation of material in space with high-energy particles induced the prod
 
 ![Spallation Schematic](/img/projects/cosnucs/spallation_schematic.png)
 
-Panel 1 on the left shows a high energy proton that is about to strike a <sup>28</sup>Si nucleus. The likelihood of this interaction to take place and produce a given nuclide is given by a nuclear cross section σ. In the collision the proton transfers its energy to the nucleus and thus excites it (panel 2). In order to de-excite (panel 3) the nucleus breaks up into some ejectiles / low-mass particles (e.g., protons, neutrons, helium nuclei) and a residual spallogenic nucleus, here <sup>21</sup>Ne. For a given high-energy particle *k* (a proton for the example above) at a given energy *E*, the production of a cosmogenic nuclide *j* from a target element *i* can be calculated as:
+In panel (1), a high energy proton strikes a target nucleus (here <sup>28</sup>Si). This nucleus then breaks up
+into various lighter nuclei (2). The excited nucleus left behind then decays, e.g., via γ or
+neutron emission and a cosmogenic nuclide (here <sup>21</sup>Ne) is left behind (3).
+For a given high-energy particle *k* (a proton for the example above) at a given energy *E*, the production of a cosmogenic nuclide *j* from a target element *i* can be calculated as:
 
 $$P_{j,i,k} = \sigma_{j,i,k} J_k$$
 
