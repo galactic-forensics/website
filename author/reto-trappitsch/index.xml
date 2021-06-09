@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reto Trappitsch | Galactic Forensics Laboratory</title><link>https://galactic-forensics.space/author/reto-trappitsch/</link><atom:link href="https://galactic-forensics.space/author/reto-trappitsch/index.xml" rel="self" type="application/rss+xml"/><description>Reto Trappitsch</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© (2021) · Galactic Forensics Laboratory · Brandeis University</copyright><image><url>https://galactic-forensics.space/author/reto-trappitsch/avatar_hub3062aebac87d90ff0fcdda612614503_21809_270x270_fill_q90_lanczos_center.jpg</url><title>Reto Trappitsch</title><link>https://galactic-forensics.space/author/reto-trappitsch/</link></image><item><title>New Opportunities with Stardust</title><link>https://galactic-forensics.space/resources/presentations/2020-12-02-jina-horizons/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://galactic-forensics.space/resources/presentations/2020-12-02-jina-horizons/</guid><description>&lt;p>This brief presentation reviews some recent highlights of stardust research
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reto Trappitsch | Galactic Forensics Laboratory</title><link>https://galactic-forensics.space/author/reto-trappitsch/</link><atom:link href="https://galactic-forensics.space/author/reto-trappitsch/index.xml" rel="self" type="application/rss+xml"/><description>Reto Trappitsch</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© (2021) · Galactic Forensics Laboratory · Brandeis University</copyright><image><url>https://galactic-forensics.space/author/reto-trappitsch/avatar_hub3062aebac87d90ff0fcdda612614503_21809_270x270_fill_q90_lanczos_center.jpg</url><title>Reto Trappitsch</title><link>https://galactic-forensics.space/author/reto-trappitsch/</link></image><item><title>On the Origin of Elements in the Milky Way</title><link>https://galactic-forensics.space/resources/courses/origin_elements/</link><pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate><guid>https://galactic-forensics.space/resources/courses/origin_elements/</guid><description>&lt;p>The Big Bang only formed hydrogen and helium. All other elements,
+e.g., the ones we are made of,
+were subsequently formed in stars. This course discusses how these elements
+formed and how we can directly measure and probe nucleosynthesis and galactic
+chemical evolution.
+The course starts with the solar composition, i.e.,
+the composition of the Solar System that we are ultimately trying to explain.
+It then goes back to the Big Bang to start with the first nucleosynthesis events.
+From here on, the course loops through various stellar nucleosynthesis events
+and discusses observations and measurements along the way that help us
+to understand how the elements we are all made of formed in the first place.&lt;/p>
+&lt;p>This course was first held at Brandeis University in Spring 2021
+and is geared as an elective course towards advanced undergraduates and
+early graduate students. The course is design as a mixture between
+lectures and reading / discussion of original scientific manuscripts.&lt;/p>
+&lt;p>All documents, homework sets, etc. of this course,
+including the LaTeX source files are available on
+&lt;a href="https://github.com/galactic-forensics/lecture_origin_elements" target="_blank" rel="noopener">GitHub&lt;/a>.
+All original files are published under the
+&lt;a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a>.
+A direct link to the lecture note PDF file is also given
+on top of this page.&lt;/p></description></item><item><title>New Opportunities with Stardust</title><link>https://galactic-forensics.space/resources/presentations/2020-12-02-jina-horizons/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://galactic-forensics.space/resources/presentations/2020-12-02-jina-horizons/</guid><description>&lt;p>This brief presentation reviews some recent highlights of stardust research
 and how it can be used to better understand astrophysical processes such as
 the slow neutron capture process and the formation of proton- and neutron-rich
 nuclides. Finally, the presentation discusses future opportunities with stardust
