@@ -33,11 +33,11 @@
 #   url = "resources/mind-bytes/"
 #   weight = 92
 
-# [[main]]
-#   parent = "Resources"
-#   name = "Courses"
-#   weight = 94
-#   hidden = true
+[[main]]
+  parent = "Resources"
+  name = "Courses"
+  weight = 94
+  url = "resources/courses"
 
 [[main]]
   parent = "Resources"
