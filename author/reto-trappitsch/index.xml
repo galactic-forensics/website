@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reto Trappitsch | Galactic Forensics Laboratory</title><link>https://galactic-forensics.space/author/reto-trappitsch/</link><atom:link href="https://galactic-forensics.space/author/reto-trappitsch/index.xml" rel="self" type="application/rss+xml"/><description>Reto Trappitsch</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© (2021) · Galactic Forensics Laboratory · Brandeis University</copyright><image><url>https://galactic-forensics.space/author/reto-trappitsch/avatar_hub3062aebac87d90ff0fcdda612614503_21809_270x270_fill_q90_lanczos_center.jpg</url><title>Reto Trappitsch</title><link>https://galactic-forensics.space/author/reto-trappitsch/</link></image><item><title>The Curious Case of $^{60}$Fe in the Early Solar System</title><link>https://galactic-forensics.space/resources/presentations/2021-09-22-nic/</link><pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate><guid>https://galactic-forensics.space/resources/presentations/2021-09-22-nic/</guid><description>&lt;p>This invited talk reviews the discrepancies between in situ and bulk measurements
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reto Trappitsch | Galactic Forensics Laboratory</title><link>https://galactic-forensics.space/author/reto-trappitsch/</link><atom:link href="https://galactic-forensics.space/author/reto-trappitsch/index.xml" rel="self" type="application/rss+xml"/><description>Reto Trappitsch</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© (2021) · Galactic Forensics Laboratory · Brandeis University</copyright><image><url>https://galactic-forensics.space/author/reto-trappitsch/avatar_hub3062aebac87d90ff0fcdda612614503_21809_270x270_fill_q90_lanczos_center.jpg</url><title>Reto Trappitsch</title><link>https://galactic-forensics.space/author/reto-trappitsch/</link></image><item><title>Introduction to Building Electronics Projects with Arduino</title><link>https://galactic-forensics.space/resources/courses/arduino_electronics/</link><pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate><guid>https://galactic-forensics.space/resources/courses/arduino_electronics/</guid><description>&lt;p>Scientific experiments often require that
+scientists build their own setup.
+Inexpensive microelectronics, such as
+&lt;a href="https://www.arduino.cc" target="_blank" rel="noopener">Arduino&lt;/a>,
+can furthermore help to automate certain repetitive tasks.&lt;/p>
+&lt;p>In this workshop,
+students with a basic understanding of electrical circuits
+learn how to develop a scientific setup using Arduino.
+They are introduced to various components step-by-step
+until the final project,
+an Arduino controlled sample cooling stage,
+is fully implemented and working.
+The notes for the workshop are intended for students
+to go through them by themselves
+and do the exercises.
+In my opinion,
+a topic such as this one can only be learned
+by exercises, tinkering, and playing with the components.
+Therefore, the workshop notes encourage students to do exactly that.&lt;/p>
+&lt;p>All documents, code solutions, answers to questions, 3d designs, wiring diagrams,
+etc. of this course,
+including the LaTeX source files are available on
+&lt;a href="https://github.com/galactic-forensics/workshop_arduino_electronics" target="_blank" rel="noopener">GitHub&lt;/a>.
+All original files are published under the
+&lt;a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a>.
+A direct link to the lecture note PDF file is also given
+on top of this page.&lt;/p></description></item><item><title>The Curious Case of $^{60}$Fe in the Early Solar System</title><link>https://galactic-forensics.space/resources/presentations/2021-09-22-nic/</link><pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate><guid>https://galactic-forensics.space/resources/presentations/2021-09-22-nic/</guid><description>&lt;p>This invited talk reviews the discrepancies between in situ and bulk measurements
 of the initial &lt;sup>60&lt;/sup>Fe abundance in the early Solar System. The
 abundance of this short-lived radionuclide is important to constrain precisely
 since it informs the source that contributed the &lt;sup>26&lt;/sup>Al that was present
