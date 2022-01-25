@@ -1,0 +1,140 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=generator content="Source Themes Academic 4.8.0"><meta name=author content="Reto Trappitsch"><meta name=description content="Sooner or later, most scientist have to automate certain tasks.
+It is generally advisable to leave such repetitive things that can be
+automated to the computer. Here we have a look at tools that might help with
+this task."><link rel=alternate hreflang=en-us href=https://galactic-forensics.space/resources/mind-bytes/resources_programming/><meta name=theme-color content="#003478"><script src=/js/mathjax-config.js></script><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin=anonymous><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin=anonymous><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css crossorigin=anonymous title=hl-light><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css crossorigin=anonymous title=hl-dark disabled><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin=anonymous><script src=https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin=anonymous async></script><script src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js integrity crossorigin=anonymous async></script><link rel=stylesheet href="https://fonts.googleapis.com/css?family=http://fonts.googleapis.com/css?family=Itim%7CMerriweather%7Chttp://fonts.googleapis.com/css?family=Itim%7CMerriweather-Sans&display=swap"><link rel=stylesheet href=/css/academic.css><link rel=manifest href=/index.webmanifest><link rel=icon type=image/png href=/images/icon_huf9971d92eb29bf4da5830b881252d169_24412_32x32_fill_lanczos_center_2.png><link rel=apple-touch-icon type=image/png href=/images/icon_huf9971d92eb29bf4da5830b881252d169_24412_192x192_fill_lanczos_center_2.png><link rel=canonical href=https://galactic-forensics.space/resources/mind-bytes/resources_programming/><meta property="twitter:card" content="summary"><meta property="og:site_name" content="Galactic Forensics Laboratory"><meta property="og:url" content="https://galactic-forensics.space/resources/mind-bytes/resources_programming/"><meta property="og:title" content="Resources for Programming | Galactic Forensics Laboratory"><meta property="og:description" content="Sooner or later, most scientist have to automate certain tasks.
+It is generally advisable to leave such repetitive things that can be
+automated to the computer. Here we have a look at tools that might help with
+this task."><meta property="og:image" content="https://galactic-forensics.space/images/logo_hueb41359ad733f2a4eb80221204fe0002_32021_300x300_fit_lanczos_2.png"><meta property="twitter:image" content="https://galactic-forensics.space/images/logo_hueb41359ad733f2a4eb80221204fe0002_32021_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us"><meta property="article:published_time" content="2022-01-25T00:00:00+00:00"><meta property="article:modified_time" content="2022-01-25T16:07:11-05:00"><title>Resources for Programming | Galactic Forensics Laboratory</title></head><body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents><aside class=search-results id=search><div class=container><section class=search-header><div class="row no-gutters justify-content-between mb-3"><div class=col-6><h1>Search</h1></div><div class="col-6 col-search-close"><a class=js-search href=#><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a></div></div><div id=search-box><input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search></div></section><section class=section-search-results><div id=search-hits></div></section></div></aside><nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main><div class=container><div class="d-none d-lg-inline-flex"><a class=navbar-brand href=/><img src=/images/logo_hueb41359ad733f2a4eb80221204fe0002_32021_0x70_resize_lanczos_2.png alt="Galactic Forensics Laboratory"></a></div><button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span></button><div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none"><a class=navbar-brand href=/><img src=/images/logo_hueb41359ad733f2a4eb80221204fe0002_32021_0x70_resize_lanczos_2.png alt="Galactic Forensics Laboratory"></a></div><div class="navbar-collapse main-menu-item collapse justify-content-end" id=navbar-content><ul class="navbar-nav d-md-inline-flex"><li class=nav-item><a class=nav-link href=/#about><span>Home</span></a></li><li class=nav-item><a class=nav-link href=/menu-projects/><span>Research</span></a></li><li class=nav-item><a class=nav-link href=/menu-group-members/><span>People</span></a></li><li class=nav-item><a class=nav-link href=/publication/><span>Publications</span></a></li><li class="nav-item dropdown"><a href=# class="nav-link dropdown-toggle" data-toggle=dropdown aria-haspopup=true><span>Resources</span><span class=caret></span></a><div class=dropdown-menu><a class=dropdown-item href=/resources/mind-bytes/><span>Mind bytes</span></a>
+<a class=dropdown-item href=/resources/courses><span>Courses</span></a>
+<a class=dropdown-item href=/resources/downloads><span>Downloads</span></a>
+<a class=dropdown-item href=/resources/links><span>Links</span></a>
+<a class=dropdown-item href=/resources/presentations/><span>Presentations</span></a></div></li><li class=nav-item><a class=nav-link href=/contact/><span>Contact</span></a></li></ul></div><ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2"><li class=nav-item><a class="nav-link js-search" href=# aria-label=Search><i class="fas fa-search" aria-hidden=true></i></a></li></ul></div></nav><article class=article><div class="article-container pt-3"><h1>Resources for Programming</h1><p class=page-subtitle>Python and Git</p><div class=article-metadata><div><span class=font-weight-bold><a href=/author/reto-trappitsch/>Reto Trappitsch</a></span></div><span class=article-date>Last updated on
+Jan 25, 2022</span>
+<span class=middot-divider></span><span class=article-categories><i class="fas fa-folder mr-1"></i><a href=/category/coding/>Coding</a></span></div></div><div class=article-container><div class=article-style><p>Sooner or later, most scientist have to automate certain tasks.
+It is generally advisable to leave such repetitive things that can be
+automated to the computer. Here we have a look at tools that might help with
+this task.</p><p>First things first: this is by no means going to be a comprehensive article,
+but will rather be my own, fairly biased view, which heavily focuses on
+<a href=https://www.python.org/ target=_blank rel=noopener><code>python</code></a> and
+<a href=https://git-scm.com/ target=_blank rel=noopener><code>git</code></a>.
+It hopefully starts simple, and then gets more advanced fast.</p><h2 id=python>Python</h2><p>Python is a scripted computer language that allows you to do many scientific
+tasks, e.g., data evaluation, automatically. It is a fairly simple language to
+learn, and you can get going fast, however, be open to learn more advanced
+techniques later on. This means: Never stop learning! Python has many advanced
+capabilities that can make your life easier and faster.</p><h3 id=learning-python>Learning Python</h3><p><a href=https://software-carpentry.org/lessons/ target=_blank rel=noopener>Software Carpentry</a> has two great
+lessons on <code>python</code>, which are especially suited for beginners. These lessons
+should give you an introduction and overview of the language, but also teach
+you how to plot figures using <code>matplotlib</code>.</p><p>A great book to introduce you python was written by Allen Downy and can
+be found
+<a href=https://greenteapress.com/wp/think-python-2e/ target=_blank rel=noopener>here</a>. It is available
+for free. The book gives an in-depth introduction into <code>python</code>, but also into
+the basics behind the language. Such knowledge is always helpful later on,
+since it gives you a deeper understanding of certain behavior.</p><h3 id=working-with-python>Working with Python</h3><p>The official <code>python</code> distribution is distributed from
+<a href=https://www.python.org target=_blank rel=noopener>python.org</a>.
+If you install this distribution, you can add further packages using
+<a href=https://pip.pypa.io/en/stable/ target=_blank rel=noopener><code>pip</code></a>.
+However, this is not always the most straight forward way to work with <code>python</code>.</p><h4 id=virtual-environments>Virtual environments</h4><p>Virtual environments should be considered for all your projects. Depending
+on what <code>python</code> environment you are using, these environments will be
+created different. It is worth looking into it.</p><h4 id=anaconda>Anaconda</h4><p>For data processing and scientific python, check out
+<a href=https://www.anaconda.com/products/individual target=_blank rel=noopener>Anaconda</a>. This gives you a
+<code>conda</code> environment for <code>python</code>. Furthermore, Anaconda comes with many
+packages pre-installed and has a graphical manager to handle your distribution.
+This can be advantageous, depending on what you need.</p><h4 id=pyenv><code>pyenv</code></h4><p>If you need to handle multiple different python versions and want
+to easily manage virtual environments, check out
+<a href=https://github.com/pyenv/pyenv target=_blank rel=noopener><code>pyenv</code></a>.</p><h4 id=jupyter>Jupyter</h4><p>Finally, Jupyter Notebooks give a straight forward interface
+to <code>python</code> that allow you to play and develop code in a browser, as well as
+to document it in
+<a href=https://www.markdownguide.org/ target=_blank rel=noopener>Markdown</a>.
+Googles flavor of Jupyter is called
+<a href=https://colab.research.google.com/ target=_blank rel=noopener>Google Collab</a> and run on the web.
+JetBrains, the creator of PyCharm, also has an online Jupyter Notebook
+Server with is especially great for developing at the same time. It is
+called
+<a href=https://datalore.jetbrains.com/ target=_blank rel=noopener>Datalore</a>.</p><p>For Astrophysics, especially if you are interested in
+<a href=https://nugrid.github.io/ target=_blank rel=noopener>NuGrid</a> data, check out the
+<a href=https://astrohub.uvic.ca/ target=_blank rel=noopener>Astrohub</a>. You can log into the public outreach
+server with your GitHub account and then use a JupyterLab environment to run
+your astrophysics models.</p><h4 id=editors-many-good-python-editors-exist-personally-i-prefer>Editors Many good python editors exist. Personally, I prefer</h4><p><a href=https://www.jetbrains.com/pycharm/ target=_blank rel=noopener>PyCharm</a>, however, many other options.
+PyCharm is a fully integrated developer environment (IDE) and comes with many
+more tools than you need in the beginning, it can therefore be overwhelming at
+first.</p><h3 id=guis>GUIs</h3><p>If you are interested in creating graphical user interfaces for your programs,
+it is worth looking into GUIs. Two potential GUI creation packages that you
+might want to consider using are
+<a href=https://www.riverbankcomputing.com/software/pyqt/intro/ target=_blank rel=noopener><code>PyQt</code></a> or
+<a href=https://wiki.qt.io/PySide2 target=_blank rel=noopener><code>PySide</code></a>.
+Great tutorials on Qt can be found
+<a href=https://www.pythonguis.com/pyqt5-tutorial/ target=_blank rel=noopener>here</a>.</p><p>If you want to package your GUIs with installers,
+check out
+<a href=https://build-system.fman.io/ target=_blank rel=noopener><code>fbs</code></a>. Note that the open / free
+version only supports <code>python-3.6</code> and is restricted to <code>PyQt5</code>. If you want
+to dabble with the pro version, let me know.</p><h3 id=advanced-python>Advanced Python</h3><h4 id=auto-formatting>Auto-formatting</h4><p>Formatting <code>python</code> code should adhere - for readability - to certain rules.
+These are often also referred as linting requirements. While it is tedious to
+format code by hand, automatic formatters are very helpful. I generally use
+<a href=https://github.com/psf/black target=_blank rel=noopener><code>black</code></a> to format my <code>python</code> code.
+The beauty of this is that it there are not many possibilities to format your
+code, therefore, most of the decisions are already made, and it always looks
+awesome.</p><h4 id=test-your-code>Test your code!</h4><p>Testing of code is crucial, since you generally want to make sure that your
+scripts, functions, classes, etc., do what you want them to do.
+An amazing package to test your python code is
+<a href=https://docs.pytest.org/en/6.2.x/ target=_blank rel=noopener><code>pytest</code></a>. If you are interested in
+learning testing with python, check out Brian Okken&rsquo;s book
+<a href=https://pythontest.com/pytest-book/ target=_blank rel=noopener>here</a>.</p><h2 id=git>Git</h2><p>When working with code, version control should be an integral part of your
+workflow. One way of controlling versions is with <code>git</code>.
+The Galactic Forensics Laboratory has its <code>git</code> repositories hosted
+<a href=https://github.com/galactic-forensics target=_blank rel=noopener>here on GitHub</a>. Lab members get
+access to all repositories of the lab.</p><h3 id=learning-git>Learning <code>git</code></h3><p>The best way to learn <code>git</code> and / or to review your skill is by going through
+<a href=https://swcarpentry.github.io/git-novice/ target=_blank rel=noopener>this course on Software Carpentry</a>.
+The next step is then to use <code>git</code> and, if you want to keep your repos online,
+a service such as
+<a href=https://github.com target=_blank rel=noopener>GitHub</a>. You can also browse the <code>git</code>
+book, which is available for free
+<a href=https://git-scm.com/book/en/v2 target=_blank rel=noopener>here</a>.</p><p>The beauty of <code>git</code> is that you can most of the time go back in time if you
+made a mistake. So don&rsquo;t worry if something happens! A good resource for
+these weird cases is
+<a href=https://dangitgit.com/ target=_blank rel=noopener>Dangit Git</a>.</p><h3 id=good-practices>Good practices</h3><p>If you want to contribute code to a repository of which you are not a
+maintainer, you should fork the repository to your own GitHub account.
+Then create a branch with an appropriate name for the feature you want to
+contribute. Add your changes, push your branch to your fork, and then create
+a pull request where you describe what you have changed and why. Keep it short,
+but descriptive.</p><p>Most projects, e.g., the
+<a href=https://github.com/galactic-forensics/iniabu target=_blank rel=noopener><code>iniabu</code></a>
+project have a developers guide that gives you additional information on
+how to contribute. For <code>iniabu</code>, you can find the guide, e.g.,
+<a href=https://iniabu.readthedocs.io/en/latest/dev/index.html target=_blank rel=noopener>here in the docs</a>.</p><h3 id=advanced-git-and-github>Advanced <code>git</code> and GitHub</h3><h4 id=pre-commit><code>pre-commit</code></h4><p>If you are using <code>git</code> regularly, especially on public projects, <code>pre-commit</code>
+can help you to automate tasks. You can install so-called <code>hooks</code> that help
+you perform various tasks, e.g., formatting, etc. Check out the
+<a href=https://pre-commit.com/ target=_blank rel=noopener><code>pre-commit</code> website</a>.</p><h4 id=github-actions>GitHub Actions</h4><p>For automatic testing on GitHub, consider using
+<a href=https://github.com/features/actions target=_blank rel=noopener>GitHub Actions</a>. These actions can
+especially help when using continuous integration (CI).</p><h2 id=some-more-advanced-resources>Some more advanced resources</h2><h3 id=code-coverage>Code coverage</h3><p>When testing your python code, it is useful to know how many lines of your
+code are actually tested by your test suite. To automate this process,
+you can, e.g., use GitHub hooks for
+<a href=https://coveralls.io/ target=_blank rel=noopener><code>coveralls</code></a>.</p><h3 id=documentation>Documentation</h3><p>Last, but surely not least, you will likely make extensive use of great
+documentations that you can find online. For <code>python</code> code, automatic
+documentation using your doc strings can be really helpful. One tool to do so
+is
+<a href=https://www.sphinx-doc.org/en/master/ target=_blank rel=noopener><code>sphinx</code></a>.
+This is especially powerful in combination with
+<a href=https://readthedocs.org/ target=_blank rel=noopener>ReadTheDocs</a>, which can also be implemented with
+a GitHub hook.</p><h3 id=hypermodern-python>Hypermodern Python</h3><p>Finally, if you want to code in <code>python</code> using many bells and whistles,
+check out the blog articles on hypermodern python by Claudio Jolowicz.
+The series can be found
+<a href=https://cjolowicz.github.io/posts/ target=_blank rel=noopener>here</a>, the
+first article
+<a href=https://cjolowicz.github.io/posts/hypermodern-python-01-setup/ target=_blank rel=noopener>here</a>.</p></div><div class=article-tags><a class="badge badge-light" href=/tag/git/>git</a>
+<a class="badge badge-light" href=/tag/python/>python</a></div><div class="media author-card content-widget-hr"><img class="avatar mr-3 avatar-circle" src=/author/reto-trappitsch/avatar_hub3062aebac87d90ff0fcdda612614503_21809_270x270_fill_q90_lanczos_center.jpg alt="Reto Trappitsch"><div class=media-body><h5 class=card-title><a href=/author/reto-trappitsch/>Reto Trappitsch</a></h5><h6 class=card-subtitle>Assistant Research Professor</h6><p class=card-text>Experimental astrophysicist / cosmochemist with ties and interest in code development and numerical modeling.</p><ul class=network-icon aria-hidden=true><li><a href=/#contact><i class="fas fa-envelope"></i></a></li><li><a href="https://keys.openpgp.org/search?q=reto%40brandeis.edu" target=_blank rel=noopener><i class="fas fa-lock"></i></a></li><li><a href=https://github.com/trappitsch target=_blank rel=noopener><i class="fab fa-github"></i></a></li><li><a href=https://orcid.org/0000-0002-0924-236X target=_blank rel=noopener><i class="ai ai-orcid"></i></a></li><li><a href="https://scholar.google.com/citations?user=nuqrAOUAAAAJ&hl=en&oi=ao" target=_blank rel=noopener><i class="ai ai-google-scholar"></i></a></li><li><a href=/files/cvs/trappitsch_cv.pdf><i class="ai ai-cv"></i></a></li></ul></div></div></div></article><script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/py.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin=anonymous></script><script>const code_highlighting=true;</script><script>const isSiteThemeDark=false;</script><script>const search_config={"indexURI":"/index.json","minLength":1,"threshold":0.3};const i18n={"no_results":"No results found","placeholder":"Search...","results":"results found"};const content_type={'post':"Posts",'project':"Projects",'publication':"Publications",'talk':"Talks",'slides':"Slides"};</script><script id=search-hit-fuse-template type=text/x-template>
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script><script src=https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin=anonymous></script><script src=/js/academic.min.66c553246b0f279a03be6e5597f72b52.js></script><div class=container><footer class=site-footer><p class=powered-by></p><p class=powered-by>© (2022) · Galactic Forensics Laboratory · Brandeis University<br>Made with
+<a href=https://sourcethemes.com/academic/ target=_blank rel=noopener>Academic theme</a> for
+<a href=https://gohugo.io target=_blank rel=noopener>Hugo</a>.
+<span class=float-right aria-hidden=true><a href=# class=back-to-top><span class=button_icon><i class="fas fa-chevron-up fa-2x"></i></span></a></span></p></footer></div><div id=modal class="modal fade" role=dialog><div class=modal-dialog><div class=modal-content><div class=modal-header><h5 class=modal-title>Cite</h5><button type=button class=close data-dismiss=modal aria-label=Close>
+<span aria-hidden=true>&#215;</span></button></div><div class=modal-body><pre><code class="tex hljs"></code></pre></div><div class=modal-footer><a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank><i class="fas fa-copy"></i>Copy</a>
+<a class="btn btn-outline-primary my-1 js-download-cite" href=# target=_blank><i class="fas fa-download"></i>Download</a><div id=modal-error></div></div></div></div></div></body></html>
