@@ -13,9 +13,9 @@ header:
   image: ""
 ---
 
-Here you find some randomly assorted sort articles, 
+Here you find some randomly assorted articles, 
 how-tos, and tutorials for automating stuff on your computer, 
 evaluating data, etc. 
-Most articles will probably be on some fun stuff in python 
-that you might find useful, or maybe not. 
+There is / will be stuff on python, statistics, science, etc.
+that you might find useful, or maybe not. Either way:
 Happy browsing!
