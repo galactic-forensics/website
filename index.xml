@@ -231,12 +231,19 @@ called
 &lt;a href="https://astrohub.uvic.ca/" target="_blank" rel="noopener">Astrohub&lt;/a>. You can log into the public outreach
 server with your GitHub account and then use a JupyterLab environment to run
 your astrophysics models.&lt;/p>
-&lt;h4 id="editors-many-good-python-editors-exist-personally-i-prefer">Editors Many good python editors exist. Personally, I prefer&lt;/h4>
-&lt;p>
+&lt;h4 id="editors">Editors&lt;/h4>
+&lt;p>Many good python editors exist. Personally, I prefer
 &lt;a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener">PyCharm&lt;/a>, however, many other options.
 PyCharm is a fully integrated developer environment (IDE) and comes with many
 more tools than you need in the beginning, it can therefore be overwhelming at
 first.&lt;/p>
+&lt;p>Other notable editors are
+&lt;a href="https://www.spyder-ide.org/" target="_blank" rel="noopener">Spyder&lt;/a>, which is a full
+IDE that comes pre-installed with Anaconda. Also notable is
+&lt;a href="https://www.sublimetext.com/" target="_blank" rel="noopener">Sublime Text&lt;/a>, which works in my workflow
+especially well for scripting.
+&lt;a href="https://www.tabnine.com/blog/python-on-sublime-text/" target="_blank" rel="noopener">Here&lt;/a>
+is a great article on how to set up Sublime Text for python.&lt;/p>
 &lt;h3 id="guis">GUIs&lt;/h3>
 &lt;p>If you are interested in creating graphical user interfaces for your programs,
 it is worth looking into GUIs. Two potential GUI creation packages that you
@@ -258,7 +265,8 @@ format code by hand, automatic formatters are very helpful. I generally use
 &lt;a href="https://github.com/psf/black" target="_blank" rel="noopener">&lt;code>black&lt;/code>&lt;/a> to format my &lt;code>python&lt;/code> code.
 The beauty of this is that it there are not many possibilities to format your
 code, therefore, most of the decisions are already made, and it always looks
-awesome.&lt;/p>
+awesome. Various plugins exist that can be used in editors and IDEs.
+&lt;a href="https://www.duckduckgo.com" target="_blank" rel="noopener">Search engines&lt;/a> are useful to find them.&lt;/p>
 &lt;h4 id="test-your-code">Test your code!&lt;/h4>
 &lt;p>Testing of code is crucial, since you generally want to make sure that your
 scripts, functions, classes, etc., do what you want them to do.
