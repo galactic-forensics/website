@@ -8,7 +8,7 @@ authors: ["reto"]
 tags: ["python", "git"]
 categories: ["Coding"]
 date: "2022-01-25"
-lastmod: "2022-01-25"
+lastmod: "2022-01-27"
 featured: false
 draft: false
 
@@ -102,11 +102,19 @@ For Astrophysics, especially if you are interested in
 server with your GitHub account and then use a JupyterLab environment to run
 your astrophysics models.
 
-#### Editors Many good python editors exist. Personally, I prefer 
+#### Editors 
+Many good python editors exist. Personally, I prefer 
 [PyCharm](https://www.jetbrains.com/pycharm/), however, many other options.
 PyCharm is a fully integrated developer environment (IDE) and comes with many 
 more tools than you need in the beginning, it can therefore be overwhelming at
 first.
+
+Other notable editors are [Spyder](https://www.spyder-ide.org/), which is a full
+IDE that comes pre-installed with Anaconda. Also notable is 
+[Sublime Text](https://www.sublimetext.com/), which works in my workflow
+especially well for scripting. 
+[Here](https://www.tabnine.com/blog/python-on-sublime-text/)
+is a great article on how to set up Sublime Text for python.
 
 ### GUIs
 
@@ -132,7 +140,8 @@ format code by hand, automatic formatters are very helpful. I generally use
 [`black`](https://github.com/psf/black) to format my `python` code.
 The beauty of this is that it there are not many possibilities to format your
 code, therefore, most of the decisions are already made, and it always looks 
-awesome.
+awesome. Various plugins exist that can be used in editors and IDEs. 
+[Search engines](https://www.duckduckgo.com) are useful to find them.
 
 #### Test your code!
 Testing of code is crucial, since you generally want to make sure that your
