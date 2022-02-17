@@ -61,7 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 My name is Jazmine Riggins. I am a rising sophomore at Hampton University. I am a Physics Major who plans to become a future Astrophysicist. From a young age I have always been interested in Astronomy. During my free time I like to paint, cook, and sing. You could also say i am a bit of a shopaholic :)!
