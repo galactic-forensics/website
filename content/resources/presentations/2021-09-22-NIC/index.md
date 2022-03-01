@@ -1,19 +1,18 @@
 ---
-title: "The Curious Case of $^{60}$Fe in the Early Solar System"
+title: "Resonance Ionization Mass Spectrometry"
 
-summary: Nuclei in the Cosmos, September 22, 2021
-abstract: "Discussion of the experimental results that analyzed the
-abundance of <sup>60</sup>Fe in the early Solar System and implications a
-new re-evaluation of in situ measurements by SIMS."
+summary: EPFL, February 28, 2022
+abstract: "A technical introduction to resonance ionization mass spectrometry
+(RIMS), its advantages and disadvantages, and some results. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-22"
+date: "2022-02-28"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-09-22"
+publishDate: "2022-02-28"
 
 authors: [reto]
 tags: []
@@ -26,7 +25,7 @@ image:
   focal_point: Right
 
 links:
-url_pdf: "files/presentations/2021-09-22-NIC/2021-09-22-NIC.pdf"
+url_pdf: "files/presentations/2022-02-28-EPFL/2022-02-28_EPFL_RIMS.pdf"
 # url_video: "files/presentations/2020-12-02-JINA-Horizons/2020-12-02_JINA_Horizons.pdf"
 # url_slides: "files/presentations/2020-10-27-NuGrid/iniabu-slides.html"
 # url_code: ''
@@ -56,16 +55,8 @@ url_pdf: "files/presentations/2021-09-22-NIC/2021-09-22-NIC.pdf"
 math: true
 ---
 
-This invited talk reviews the discrepancies between in situ and bulk measurements
-of the initial <sup>60</sup>Fe abundance in the early Solar System. The 
-abundance of this short-lived radionuclide is important to constrain precisely
-since it informs the source that contributed the <sup>26</sup>Al that was present
-in the solar nebula. The presentation discusses the new re-evaluation of the
-in-situ secondary ion mass spectrometry (SIMS) measurements and discusses
-the implications of this re-evaluation.
-
-
-The talk was presented at the 16<sup>th</sup> Symposium on Nuclei in the Cosmos.
-A link to the meeting website can be found
-<a href="https://indico.juna.ac.cn/event/1/" target="_blank">here</a>.
+This talk is geared heavily towards mass spectrometrists that are interested
+in resonance ionization mass spectrometry and want to know more on how
+it works. The science is kept to a minimum and the talk mainly focuses on 
+the technical aspects.
 
