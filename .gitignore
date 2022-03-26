@@ -8,3 +8,7 @@
 # Hugo
 /resources/
 /public/
+
+# Python
+*.pyc
+*.ipynb_checkpoints/
