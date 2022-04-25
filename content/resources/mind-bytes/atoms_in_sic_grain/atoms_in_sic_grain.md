@@ -7,7 +7,7 @@ tags = ["Stardust", "Introduction", "Jupyter"]
 +++
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/galactic-forensics/website/HEAD?labpath=static%2Ffiles%2Fjupyter%2Fatoms_in_sic_grain.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/galactic-forensics/mindbytes/HEAD?labpath=atoms_in_sic_grains%2Fatoms_in_sic_grain.ipynb)
 
 In this article, we will analyze how many atoms of a given trace element are in a presolar SiC grain of a given size. Furthermore, the Jupyter notebook in which this article was written is available via [`binder`](https://mybinder.org/), so you can adjust it at any point to change the calculations and adopt it to your needs. Click on the icon on top to run this notebook in [`binder`](https://mybinder.org/). Throughout this notebook we will be using SI units.
 
