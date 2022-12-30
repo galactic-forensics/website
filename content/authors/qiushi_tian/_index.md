@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Researchers
+- Alumni
 ---
 
 I have been fascinated by the stars for ten years. I started by catching starry skies in the midst of city neons, making star trails, shooting the Orion Nebula, and being amazed by the Perseids. I competed in the International Astronomy Olympiad in Bulgaria in 2016 and volunteered as a team guide when the International Olympiad on Astronomy and Astrophysics was held in China in 2018. I had the opportunity to work alongside astrophysicists on a gravitational microlensing event named ASASSN-18fb when I was in high school, but now I am more excited to do some galactic forensics!

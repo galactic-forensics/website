@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Research Professor
+role: Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Brandeis University
+- name: EPFL
   url: "https://galactic-forensics.space"
 
 # Short bio (displayed in user profile at end of posts)
@@ -71,7 +71,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Head
 ---
 
 Early on in life I was already fascinated by the stars. First with a small 6" Newton type reflector,
@@ -85,5 +85,9 @@ CHILI Resonance Ionization Instrumet at the University of Chicago.
 
 After my time in Chicago, I moved to Lawrence Livermore National Laboratory as a postdoc and worked
 on the LION Resonance Ionization Instrument. In December 2019 I became a staff scientist at the lab.
-In October 2020 I will join the <a href="https://www.brandeis.edu/physics/index.html" target="_blank">Physics Department</a>
-at <a href="https://www.brandeis.edu" target="_blank">Brandeis University</a> as a research assistant professor.
+Between October 2020 and June 2022 I was Assistant Research Professort in 
+the <a href="https://www.brandeis.edu/physics/index.html" target="_blank">Physics Department</a> 
+at <a href="https://www.brandeis.edu" target="_blank">Brandeis University</a>.
+In August 2022, I joined <a href="https://www.epfl.ch">EPFL</a> as a Scientist in the
+<a href="https://www.epfl.ch/labs/lgb/">LGB</a>. 
+Here, I am still working on astrophysics and cosmochemistry.

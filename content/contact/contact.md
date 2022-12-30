@@ -25,6 +25,6 @@ map_engine=2
 +++
 
 
-<!-- To get in touch with the group you can use the contact form below or contact us directly by by e-mail: [reto@brandeis.edu](mailto:reto@brandeis.edu) -->
+<!-- To get in touch with the group you can use the contact form below or contact us directly by by e-mail: [reto.trappitsch@epfl.ch](mailto:reto.trappitsch@epfl.ch) -->
 
 

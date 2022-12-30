@@ -88,16 +88,16 @@ show_related = {docs = false, page = false, post = true, project = false, public
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "reto@brandeis.edu"
+email = "reto.trappitsch@epfl.ch"
 # phone = "(781 386 1684)"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "415 South Street", city = "Waltham", region = "MA", postcode = "02453", country = "United States", country_code = "US"}
+address = {street = "EPFL-ENAC-LGB, GR C2 505, Station 2", city = "Lausanne", postcode = "1015", country = "Switzerland", country_code = "CH"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.366464", longitude = "-71.258588"}
+coordinates = {latitude = "46.52125", longitude = " 6.5679"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -141,7 +141,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+address_format = "de"
 
 ############################
 ## Advanced
