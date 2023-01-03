@@ -49,7 +49,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: lock
   icon_pack: fas
-  link: https://keys.openpgp.org/search?q=reto%40brandeis.edu
+  link: https://keys.openpgp.org/search?q=reto.trappitsch@epfl.ch
 - icon: github
   icon_pack: fab
   link: https://github.com/trappitsch

@@ -50,6 +50,24 @@ Research is fun when it consists of new and unique tasks. For repetitive ones on
 
 As you will notice, a dominating programming language in our lab is Python. This becomes especially clear when you look at the GitHub pages given above. If you are interested in any of our specific code or you have questions, please feel free to [contact us](/contact/)! Also, contributions to our codes are always welcomed. Please have a look at the developer guides (when available). Feel free to create pull requests for documentation enhancement, small bug fixes, etc. We are looking forward to your ideas and issues.
 
+## RIMSEval and RIMSEvalGUI
+
+To process resonance ionization mass spectrometry data,
+we created a `rimseval` python package 
+and wrapped a GUI user interface around it. 
+
+<a href="https://github.com/RIMS-Code/RIMSEvalGUI" target="_blank">![RIMSEval GUI](/img/projects/code/rimsevalgui.png)</a>
+
+The software is published open-source and can be found on GitHub:
+- [Package](https://github.com/RIMS-Code/RIMSEval)
+- [GUI](https://github.com/RIMS-Code/RIMSEvalGUI)
+
+To get started,
+have a look at the [documentation](https://rimseval.readthedocs.io/en/latest/).
+The easiest way for users to process data is to use the GUI,
+detailed information on installation can be found
+[here](https://rimseval.readthedocs.io/en/latest/gui/install.html).
+
 
 ## iniabu
 
