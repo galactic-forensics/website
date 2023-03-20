@@ -26,7 +26,7 @@ featured: false
   # focal_point: Right
 
 links:
-url_pdf: "files/presentations/2023-03-12-18_Russbach/2023-03-13_Trappitsch_PresolarGrains"
+url_pdf: "files/presentations/2023-03-12-18_Russbach/2023-03-13_Trappitsch_PresolarGrains.pdf"
 # url_video: "files/presentations/2020-12-02-JINA-Horizons/2020-12-02_JINA_Horizons.pdf"
 # url_slides: "files/presentations/2020-10-27-NuGrid/iniabu-slides.html"
 # url_code: ''
