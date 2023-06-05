@@ -31,3 +31,10 @@ Alternativley, clone via SSH.
 After pushing to the `main` branch,
 github actions automatically build the website
 and push the files to the `gh-pages` branch.
+The build follows the instructions
+[here](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
+Note that the filename had to be adapted,
+since v0.72.0 uses a different file naming scheme
+than later versions.
+Furthermore, 
+the creation of the `CNAME` file has been added.
