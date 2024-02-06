@@ -69,7 +69,7 @@ detailed information on installation can be found
 [here](https://rimseval.readthedocs.io/en/latest/gui/install.html).
 
 
-## iniabu
+## The solar system initial abundances in python: `iniabu`
 
 `iniabu` is a package for python that you can use 
 to easily calculate the inital abundances of the solar system 
@@ -103,7 +103,7 @@ if you find a bug in the software,
 would like some specific feature included,
 or need help.
 
-## InstrumentKit
+## InstrumentKit -- Drive your laboratory equipment with `python`
 
 The freely available <a href="https://github.com/Galvant/InstrumentKit" target="_blank">InstrumentKit</a> 
 has been used to interact with hardware for the LION instrument
@@ -115,9 +115,9 @@ might motivate you to continue down the Python path,
 and contribute your own instruments one day.
 
 
-## Mahon Fitting
+## Linear regression with `CEREsFit`
 
-In order to fit a linear regression to measurements with uncertainties in both axes, the routine by <a href="https://www.tandfonline.com/doi/abs/10.1080/00206819709465336" target="_blank">Mahon (1996)</a>, also known as the “New York” regression, should be used. Along with the <a href="https://doi.org/10.3847/2041-8213/aabba9" target="_blank">Trappitsch et al. (2018)</a> publication we published a tool to easily apply the Mahon fitting routine to any dataset. The tool, including a detailed README file, can be found on <a href="https://github.com/LLNL/MahonFitting" target="_blank">the respective GitHub site</a>.
+In [Stephan and Trappitsch (2023)](/publication/stephan-23-unc) we presented the methods to calculate linear regressions for measurements that have uncertainties in both dimensions. For this work, we also implemented a python tool `CEREsFit`, which is freely available on <a href="https://pypi.org/search/?q=ceresfit" target="_blank">`pypi`</a> and <a href="https://github.com/galactic-forensics/CEREsFit" target="_blank">GitHub</a>. In the repository, example Jupyter notebooks on how to use the module and how to plot the regressions lines with rotated error bars for correlated uncertainties are also shown.
 
 ## Resonance Ionization Scheme Drawer
 
