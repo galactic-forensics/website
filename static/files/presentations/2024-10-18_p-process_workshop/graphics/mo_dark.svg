@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="372.1843"
+   height="144.30006"
+   id="svg2204"
+   sodipodi:docname="mo_dark.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2208">
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2206"
+     pagecolor="#3b3b3b"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.1366797"
+     inkscape:cx="261.28732"
+     inkscape:cy="149.99828"
+     inkscape:window-width="1860"
+     inkscape:window-height="1123"
+     inkscape:window-x="56"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2204" />
+  <rect
+     id="91Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="21.934299"
+     y="96.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="92Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="53.934296"
+     y="96.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="92Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="21.934299"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="93Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="85.934303"
+     y="96.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="93Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="53.934296"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="93Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="21.934299"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="94Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="117.9343"
+     y="96.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="94Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="85.934303"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="94Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="53.934296"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="94Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="21.934299"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <rect
+     id="95Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="149.9343"
+     y="96.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="95Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="117.9343"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="95Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="85.934303"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="95Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="53.934296"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <rect
+     id="96Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="181.9343"
+     y="96.25"
+     style="stroke:#ffffff;stroke-opacity:1" />
+  <rect
+     id="96Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="149.9343"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="96Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="117.9343"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="96Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="85.934303"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <rect
+     id="97Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="213.9343"
+     y="96.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="97Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="181.9343"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="97Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="149.9343"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="97Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#ffdddb"
+     x="117.9343"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <rect
+     id="98Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="245.9343"
+     y="96.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="98Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="213.9343"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="98Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="181.9343"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="98Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="149.9343"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <rect
+     id="99Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="277.9343"
+     y="96.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="99Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="245.9343"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="99Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="213.9343"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="99Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="181.9343"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <rect
+     id="100Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="309.9343"
+     y="96.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="100Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="277.9343"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="100Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="245.9343"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="100Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="213.9343"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <rect
+     id="101Nb0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="341.9343"
+     y="96.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="101Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="309.9343"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="101Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="277.9343"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="101Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="245.9343"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <rect
+     id="102Mo0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="341.9343"
+     y="64.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="102Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="309.9343"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="102Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="277.9343"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <rect
+     id="103Tc0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="341.9343"
+     y="32.25"
+     style="stroke:#ffffff" />
+  <rect
+     id="103Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#dbecff"
+     x="309.9343"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <rect
+     id="104Ru0"
+     width="30"
+     height="30"
+     stroke="#000000"
+     stroke-width="0.5"
+     fill="#000000"
+     x="341.9343"
+     y="0.25000003"
+     style="stroke:#ffffff" />
+  <polygon
+     id="100Mo1"
+     stroke="#000000"
+     stroke-width="0"
+     stroke-linejoin="bevel"
+     fill="#dbecff"
+     x="290"
+     y="98"
+     points="310,127.75 319.75,127.75 319.75,118 "
+     transform="translate(-12.065702,-33.75)" />
+  <polygon
+     id="100Tc1"
+     stroke="#000000"
+     stroke-width="0"
+     stroke-linejoin="bevel"
+     fill="#ffdddb"
+     x="258"
+     y="66"
+     points="258.25,76 258.25,66.25 268,66.25 "
+     transform="translate(-12.065702,-33.75)" />
+  <g
+     id="layer2"
+     fill="none"
+     transform="matrix(1,0,0,0.79020621,-12.065702,-0.56751198)"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:1.12494">
+    <line
+       id="50n0"
+       stroke="#000000"
+       stroke-width="1.12494"
+       x1="33"
+       y1="1"
+       x2="33"
+       y2="161"
+       style="fill:#ffffff;stroke:#ffffff" />
+    <line
+       id="50n1"
+       stroke="#000000"
+       stroke-width="1.12494"
+       x1="65"
+       y1="1"
+       x2="65"
+       y2="161"
+       style="fill:#ffffff;stroke:#ffffff" />
+  </g>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="36.934296"
+     y="107"
+     id="text1967">Nb 91</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="36.934296"
+     y="118.75"
+     id="text1969">680 y</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="68.934303"
+     y="107"
+     id="text1971">Nb 92</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="68.934303"
+     y="118.75"
+     id="text1973">34.7 My</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="36.934296"
+     y="75"
+     id="text1975">Mo 92</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="36.934296"
+     y="86.75"
+     id="text1977">14.53</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="100.9343"
+     y="107"
+     id="text1979">Nb 93</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="100.9343"
+     y="118.75"
+     id="text1981">100.</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="68.934303"
+     y="75"
+     id="text1983">Mo 93</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="68.934303"
+     y="86.75"
+     id="text1985">4.0 ky</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="36.934296"
+     y="43"
+     id="text1987">Tc 93</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="36.934296"
+     y="54.75"
+     id="text1989">2.75 h</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="132.9343"
+     y="107"
+     id="text1991">Nb 94</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="132.9343"
+     y="118.75"
+     id="text1993">20.4 ky</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="100.9343"
+     y="75"
+     id="text1995">Mo 94</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="100.9343"
+     y="86.75"
+     id="text1997">9.15</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="68.934303"
+     y="43"
+     id="text1999">Tc 94</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="68.934303"
+     y="54.75"
+     id="text2001">293 m</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="36.934296"
+     y="11"
+     id="text2003">Ru 94</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="36.934296"
+     y="22.75"
+     id="text2005">51.8 m</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="164.9343"
+     y="107"
+     id="text2007">Nb 95</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="164.9343"
+     y="118.75"
+     id="text2009">34.991 d</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="132.9343"
+     y="75"
+     id="text2011">Mo 95</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="132.9343"
+     y="86.75"
+     id="text2013">15.84</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="100.9343"
+     y="43"
+     id="text2015">Tc 95</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="100.9343"
+     y="54.75"
+     id="text2017">20.0 h</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="68.934303"
+     y="11"
+     id="text2019">Ru 95</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="68.934303"
+     y="22.75"
+     id="text2021">1.643 h</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="196.9343"
+     y="107"
+     id="text2027">Nb 96</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="196.9343"
+     y="118.75"
+     id="text2029">23.35 h</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="164.9343"
+     y="75"
+     id="text2031">Mo 96</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="164.9343"
+     y="86.75"
+     id="text2033">16.67</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="132.9343"
+     y="43"
+     id="text2035">Tc 96</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="132.9343"
+     y="54.75"
+     id="text2037">4.28 d</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="100.9343"
+     y="11"
+     id="text2039">Ru 96</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="100.9343"
+     y="22.75"
+     id="text2041">5.54</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="228.9343"
+     y="107"
+     id="text2047">Nb 97</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="228.9343"
+     y="118.75"
+     id="text2049">72.1 m</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="196.9343"
+     y="75"
+     id="text2051">Mo 97</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="196.9343"
+     y="86.75"
+     id="text2053">9.60</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="164.9343"
+     y="43"
+     id="text2055">Tc 97</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="164.9343"
+     y="54.75"
+     id="text2057">4.21 My</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="132.9343"
+     y="11"
+     id="text2059">Ru 97</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="132.9343"
+     y="22.75"
+     id="text2061">2.8370 d</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="260.9343"
+     y="107"
+     id="text2067">Nb 98</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="260.9343"
+     y="118.75"
+     id="text2069">2.86 s</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="228.9343"
+     y="75"
+     id="text2071">Mo 98</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="228.9343"
+     y="86.75"
+     id="text2073">24.39</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="196.9343"
+     y="43"
+     id="text2075">Tc 98</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="196.9343"
+     y="54.75"
+     id="text2077">4.2 My</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="164.9343"
+     y="11"
+     id="text2079">Ru 98</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="164.9343"
+     y="22.75"
+     id="text2081">1.87</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="292.9343"
+     y="107"
+     id="text2087">Nb 99</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="292.9343"
+     y="118.75"
+     id="text2089">15.0 s</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="260.9343"
+     y="75"
+     id="text2091">Mo 99</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="260.9343"
+     y="86.75"
+     id="text2093">65.976 h</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="228.9343"
+     y="43"
+     id="text2095">Tc 99</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="228.9343"
+     y="54.75"
+     id="text2097">211.1 ky</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="196.9343"
+     y="11"
+     id="text2099">Ru 99</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="196.9343"
+     y="22.75"
+     id="text2101">12.76</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="324.9343"
+     y="107"
+     id="text2107">Nb 100</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="324.9343"
+     y="118.75"
+     id="text2109">1.5 s</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="292.9343"
+     y="75"
+     id="text2111">Mo 100</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="292.9343"
+     y="86.75"
+     id="text2113">9.82</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="260.9343"
+     y="43"
+     id="text2115">Tc 100</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="260.9343"
+     y="54.75"
+     id="text2117">15.46 s</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="228.9343"
+     y="11"
+     id="text2119">Ru 100</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="228.9343"
+     y="22.75"
+     id="text2121">12.60</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="356.9343"
+     y="107"
+     id="text2127">Nb 101</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="356.9343"
+     y="118.75"
+     id="text2129">7.1 s</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="324.9343"
+     y="75"
+     id="text2131">Mo 101</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="324.9343"
+     y="86.75"
+     id="text2133">14.61 m</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="292.9343"
+     y="43"
+     id="text2135">Tc 101</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="292.9343"
+     y="54.75"
+     id="text2137">14.22 m</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="260.9343"
+     y="11"
+     id="text2139">Ru 101</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="260.9343"
+     y="22.75"
+     id="text2141">17.06</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="356.9343"
+     y="75"
+     id="text2147">Mo 102</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="356.9343"
+     y="86.75"
+     id="text2149">11.3 m</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="324.9343"
+     y="43"
+     id="text2151">Tc 102</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="324.9343"
+     y="54.75"
+     id="text2153">5.28 s</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="292.9343"
+     y="11"
+     id="text2155">Ru 102</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="292.9343"
+     y="22.75"
+     id="text2157">31.55</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="356.9343"
+     y="43"
+     id="text2163">Tc 103</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="356.9343"
+     y="54.75"
+     id="text2165">54.2 s</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#000000"
+     x="324.9343"
+     y="11"
+     id="text2167">Ru 103</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#000000"
+     x="324.9343"
+     y="22.75"
+     id="text2169">39.247 d</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="356.9343"
+     y="11"
+     id="text2175">Ru 104</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:5px;fill:#ffffff"
+     x="356.9343"
+     y="22.75"
+     id="text2177">18.62</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:6px;fill:#ffffff"
+     x="36.934296"
+     y="139"
+     id="text2187">50</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:6px;fill:#ffffff"
+     x="100.9343"
+     y="139"
+     id="text2189">52</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:6px;fill:#ffffff"
+     x="164.9343"
+     y="139"
+     id="text2191">54</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:6px;fill:#ffffff"
+     x="228.9343"
+     y="139"
+     id="text2193">56</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:6px;fill:#ffffff"
+     x="292.9343"
+     y="139"
+     id="text2195">58</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:6px;fill:#ffffff"
+     x="356.9343"
+     y="139"
+     id="text2197">60</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:6px;fill:#ffffff"
+     x="8.9342985"
+     y="83.25"
+     id="text2199">42</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:6px;fill:#ffffff"
+     x="8.9342985"
+     y="19.25"
+     id="text2201">44</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="369.65576"
+     y="137.31038"
+     id="text4980">n</text>
+  <text
+     text-anchor="middle"
+     font-family="sans"
+     style="font-size:7px;fill:#ffffff"
+     x="-2.4860001"
+     y="11.581014"
+     id="text5032"
+     transform="rotate(-90)">p</text>
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:0.999999;stroke-dasharray:none;marker-start:url(#Arrow2)"
+     d="M 2.7999972,6.2999936 V 61.444943"
+     id="path2517"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:0.999999;stroke-dasharray:none;marker-start:url(#Arrow2)"
+     d="M 365.8843,141.50007 H 310.73935"
+     id="path2"
+     sodipodi:nodetypes="cc" />
+</svg>
