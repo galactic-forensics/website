@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Mind Bytes"
-  url = "https://blog.galactic-forensics.space/posts/"
+  url = "https://blog.galactic-forensics.space/"
   weight = 20
 
 [[main]]
